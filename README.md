@@ -1,14 +1,9 @@
 # label-image
 
-A Clojure library designed to ... well, that part is up to you.
+## API
 
-## Usage
+https://www.tensorflow.org/api_docs/java/reference/org/tensorflow/package-summary
 
-FIXME
+## Example
 
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+https://github.com/tensorflow/tensorflow/blob/r1.2/tensorflow/java/src/main/java/org/tensorflow/examples/LabelImage.java
